@@ -14,4 +14,4 @@
 
 - Contribute a recipe, and get a chance to meet & cook with our partnered master chef's.<br><br>
 
-##### Build with - HTML5, CSS. Used Flexbox,media queries to make it responsive.
+##### Build with - HTML5, Bootstrap 4. Used Bootwatch theme.
