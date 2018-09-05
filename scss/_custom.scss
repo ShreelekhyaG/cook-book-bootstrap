@@ -3,5 +3,5 @@ $primary:#78C2AD;
     margin-top:$number;
     }
   
-#top_m,#media { @include spacing(2rem); }
-#recipe { @include spacing(1rem);}
+.top_m { @include spacing(2rem); }
+#recipe { @include spacing(1rem); }
